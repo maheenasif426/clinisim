@@ -60,6 +60,6 @@ A modern, responsive web-based medical simulation and assessment suite designed 
 1. **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. **Clone the Repository & Install Dependencies**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/maheenasif426/clinisim
    cd clinisim
    npm install
